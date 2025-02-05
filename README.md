@@ -34,9 +34,9 @@ Insights and recommendations are provided on the following key areas:
    
 7.	Tender Type Evaluation: An analysis of the most prevalent tender advert types received.
 
-Source data from internal database used for analysis can be accessed [HERE] 
+Source data from internal database used for analysis is confidential and so cannot be publicly accessed 
 
-The Changelog documenting cleaning, reformatting and normalizing processes can be found [HERE] 
+The Changelog documenting cleaning, reformatting and normalizing processes can be found [HERE](https://github.com/paschaldubem/MAKAIS-BUSINESS-DEVELOPMENT-OPERATIONS-ANALYSIS/blob/main/CHANGE%20LOG%20FOR%20MAKAIS%20TENDER%20TRACKER.pdf)
 
 An Interactive PowerBI dashboard used to report and explore key metrics and KPIs can be accessed [HERE](https://app.powerbi.com/view?r=eyJrIjoiZjNlMzc4YmYtM2RhOS00OWZmLTk4MDYtYzZhNWYyYmRkOTE5IiwidCI6IjI5ZTg2YjVlLTVkMDctNGExNC1hZDQ0LWFiOTQ3NmUwZGE4NyJ9)
 
